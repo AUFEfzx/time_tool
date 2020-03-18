@@ -1,0 +1,12 @@
+C:\Users\傅真鑫\Desktop\Task-Queued-List-1.0.0.1\small_tool\small_tool\bin\Debug\small_tool.exe.config
+C:\Users\傅真鑫\Desktop\Task-Queued-List-1.0.0.1\small_tool\small_tool\bin\Debug\small_tool.exe
+C:\Users\傅真鑫\Desktop\Task-Queued-List-1.0.0.1\small_tool\small_tool\bin\Debug\small_tool.pdb
+C:\Users\傅真鑫\Desktop\Task-Queued-List-1.0.0.1\small_tool\small_tool\obj\Debug\small_tool.csprojAssemblyReference.cache
+C:\Users\傅真鑫\Desktop\Task-Queued-List-1.0.0.1\small_tool\small_tool\obj\Debug\small_tool.Form1.resources
+C:\Users\傅真鑫\Desktop\Task-Queued-List-1.0.0.1\small_tool\small_tool\obj\Debug\small_tool.Properties.Resources.resources
+C:\Users\傅真鑫\Desktop\Task-Queued-List-1.0.0.1\small_tool\small_tool\obj\Debug\small_tool.csproj.GenerateResource.cache
+C:\Users\傅真鑫\Desktop\Task-Queued-List-1.0.0.1\small_tool\small_tool\obj\Debug\small_tool.exe
+C:\Users\傅真鑫\Desktop\Task-Queued-List-1.0.0.1\small_tool\small_tool\obj\Debug\small_tool.pdb
+C:\Users\傅真鑫\Desktop\Task-Queued-List-1.0.0.1\small_tool\small_tool\obj\Debug\small_tool.Form2.resources
+C:\Users\傅真鑫\Desktop\Task-Queued-List-1.0.0.1\small_tool\small_tool\bin\Debug\MySql.Data.dll
+C:\Users\傅真鑫\Desktop\Task-Queued-List-1.0.0.1\small_tool\small_tool\obj\Debug\small_tool.csproj.CopyComplete
